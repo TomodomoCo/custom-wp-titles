@@ -8,9 +8,9 @@ Simply set your title tag to...
 <title><?php wp_title(''); ?></title>
 ```
 
-...and add this as an mu-plugin. Boom.
+...and [add this as an mu-plugin](http://codex.wordpress.org/Must_Use_Plugins). Boom.
 
-**NOTE:** This will probably work out of the box for most use cases, but you should feel free to customise it to your heart's content. Set your own separator, add other conditions, etc.
+**NOTE:** This will probably work out of the box for most use cases, but you should feel free to customise it to your heart's content. Set your own separator, add other conditions, make it suck less, etc.
 
 ## License
 
